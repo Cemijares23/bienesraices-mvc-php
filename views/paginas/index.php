@@ -48,9 +48,9 @@
 
         <div class="testimonial">
             <blockquote> <!--etiqueta para testimoniales-->
-                El personal se comportó de una excelente forma, muy buena atencion y la casa que me ofrecieron cumple con todas mis expectativas.
+                    El servicio fue excepcional, muy atentos a nuestras necesidades. La casa era maravillosa y hizo que nuestras vacaciones fueran inolvidables
             </blockquote>
-            <p>- Mike M.</p>
+            <p>- Laura García</p>
         </div>
     </section>
 </div>

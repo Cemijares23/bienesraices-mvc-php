@@ -1,6 +1,7 @@
 <main class="contenedor seccion">
     <h2>Administrador de Bienes Raíces</h2>
 
+    <!-- Muestra alertas -->
     <?php
         if($registro) {
             // intval convierte el numero a entero
